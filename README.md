@@ -7,8 +7,8 @@
 | 0:00 - 0:10 | 1. Check-in + Session 5 Recap              |
 | 0:10 - 0:25 | 2. Introduction to Word Embeddings         |
 | 0:25 - 0:50 | 3. PyTorch Embedding Layer & NER Dataset   |
-| 0:50 - 1:15 | 4. Building and Training NER Model         |
-| 1:15 - 1:30 | 5. Results Analysis & Next Steps           |
+| 0:50 - 1:30 | 4. Building and Training NER Model         |
+| 1:30 - 2:00 | 5. Results Analysis & Next Steps           |
 
 ---
 
